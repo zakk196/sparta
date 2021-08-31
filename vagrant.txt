@@ -1,0 +1,22 @@
+vagrant ssh - this command will get you into the vagrant machine. 
+
+Vagrant is a tool it is not a virtual machine.
+
+Code i used:
+ls
+    2  pwd
+    3  ls /
+    4  ls / -la
+    5  ls /vagrant/
+    6  touch test.py
+    7  ls -la
+    8  ls /vagrant/-la
+    9  ls /vagrant/ -la
+   10  touch /vagrant/test.py
+   11  ls /vagrant/ -la
+   12  cat test.py
+   13  cat /vagrant/test.py
+   14  python3 test.py
+   15  python3 /vagrant/test/py
+   16  python3 /vagrant/test.py
+   17  history

@@ -1,0 +1,8 @@
+docker
+kill- will not give grace period to shutdown
+stop - will give a time to stop
+
+
+docker ps- will show you info about containers
+
+docker rm (container id) - will remove the container

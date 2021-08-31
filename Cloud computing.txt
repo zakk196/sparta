@@ -1,0 +1,48 @@
+cloud computing
+
+cloud computing is the on demand of computing systems, stoage netwokring softwares datatbases procesing, anything that is on the cloud.
+
+3 sections of cloud computing.. infastructure, platforms, applications.
+
+beinifts of cloud computing  cost, efficency, and cost.
+
+Flexibilty
+.scaleabilty when you need to.
+
+Effeciency
+accsess when you need to.
+able to scale up and down when you need to.
+if a server is down there most likely will be another server ready.
+
+Cost
+.cost of servers themsleves and maintaining is expensive
+.cost of storage.
+
+
+concerns about cloud and risks.
+
+security
+.the data that has been uploaded is not managed by yourself. your data is under other peoples hands too.
+.someone could hack the cloud servers and acsess your data
+.the cloud provider can have vunerbilities not yourself
+
+data portabilty
+.sometimes you cannot move your service to other cloud providers
+
+cloud provider transparency.
+
+deployment types>
+
+private cloud- when you have your own cloud on the service. they managae and own the clouds themselves eg facebook
+Hybrid cloud- they use both public and private clouds. eg netflix
+
+iaas- infastructure as a service - just using the ifastructure that the service provides.
+paas - platform as a service- not responsable for the server but respoable for the web app and security deployment.
+Saas- software as a service - eg gmail. the software will also be provided by the provider. 
+
+
+virtualisation vs cloud computing
+
+- virtulaztion is a base for cloud computing
+- two key buzz words.
+-virtulaztion helps in delivery of a share computing data or software.
